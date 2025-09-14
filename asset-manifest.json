@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/webeesa/static/css/main.167543f4.css",
-    "main.js": "/webeesa/static/js/main.606c5b6a.js",
-    "static/js/453.07f8671f.chunk.js": "/webeesa/static/js/453.07f8671f.chunk.js",
-    "static/media/inauguration_video.mp4": "/webeesa/static/media/inauguration_video.c87eddef966b00848065.mp4",
-    "static/media/eesa_logo.png": "/webeesa/static/media/eesa_logo.d2e87d388d93126054bf.png",
-    "index.html": "/webeesa/index.html",
-    "main.167543f4.css.map": "/webeesa/static/css/main.167543f4.css.map",
-    "main.606c5b6a.js.map": "/webeesa/static/js/main.606c5b6a.js.map",
-    "453.07f8671f.chunk.js.map": "/webeesa/static/js/453.07f8671f.chunk.js.map"
+    "main.css": "/klpk711/webeesa.git/static/css/main.167543f4.css",
+    "main.js": "/klpk711/webeesa.git/static/js/main.9bf92da6.js",
+    "static/js/453.07f8671f.chunk.js": "/klpk711/webeesa.git/static/js/453.07f8671f.chunk.js",
+    "static/media/inauguration_video.mp4": "/klpk711/webeesa.git/static/media/inauguration_video.c87eddef966b00848065.mp4",
+    "static/media/eesa_logo.png": "/klpk711/webeesa.git/static/media/eesa_logo.d2e87d388d93126054bf.png",
+    "index.html": "/klpk711/webeesa.git/index.html",
+    "main.167543f4.css.map": "/klpk711/webeesa.git/static/css/main.167543f4.css.map",
+    "main.9bf92da6.js.map": "/klpk711/webeesa.git/static/js/main.9bf92da6.js.map",
+    "453.07f8671f.chunk.js.map": "/klpk711/webeesa.git/static/js/453.07f8671f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.167543f4.css",
-    "static/js/main.606c5b6a.js"
+    "static/js/main.9bf92da6.js"
   ]
 }
